@@ -1,0 +1,13 @@
+{
+  "facts": [],
+  "name": "Yogi",
+  "affection_score": 78,
+  "relationship_level": 1,
+  "personality_traits": {
+    "clinginess": 0.5,
+    "jealousy": 0.3,
+    "playfulness": 0.7
+  },
+  "last_mood": "clingy",
+  "language_mode": "telugu"
+}
